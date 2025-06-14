@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Khalil Zarrouk 👋
 
-<!--
-**khalilzrk/khalilzrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔒 Cybersecurity Engineer | 🤖 AI Specialist | 🎓 PhD Candidate in Robotics
 
-Here are some ideas to get you started:
+I build security solutions that protect businesses and automate threat detection using cutting-edge AI.
+I develop robotic systems using ROS2 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ Tech Stack
+- **Security**: ELK Stack, Wazuh, Snort, OSSIM, Metasploit
+- **Languages**: Python (Advanced), C++ (Advanced), JavaScript
+- **AI/ML**: TensorFlow, PyTorch, Scikit-learn
+- **Robotics**: ROS2, Computer Vision, Sensor Fusion
+- **Cloud**: AWS, Docker, Kubernetes
+
+### 🚀 Featured Projects
+- 🔐 **[SecuPy Toolkit](https://github.com/khalilzrk/SecuPy)** - Automated security scanning suite
+- 🤖 **[AI-SIEM](https://github.com/khalilzrk/AI-SIEM)** - ML-powered threat detection
+- 🎯 **[PhishNet](https://github.com/khalilzrk/PhishNet)** - AI phishing detector
+
+### 📊 Current Focus
+- Building AI-powered cybersecurity tools
+- ROS2 security frameworks
+- Automated threat response systems
+
+### 💼 Available for Freelance Work
+I'm accepting new projects in:
+- SIEM Implementation & Configuration
+- Security Automation & Scripting
+- AI/ML Security Solutions
+- Penetration Testing & Audits
+
+📧 **Contact**: zarroukkhalil96@gmail.com  
+
