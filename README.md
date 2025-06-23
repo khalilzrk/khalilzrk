@@ -7,20 +7,21 @@ I develop robotic systems using ROS2
 
 
 ### 🛠️ Tech Stack
-- **Security**: ELK Stack, Wazuh, Snort, OSSIM, Metasploit
-- **Languages**: Python (Advanced), C++ (Advanced), JavaScript
+- **Security**: ELK Stack, Wazuh, Snort, OSSIM, Metasploit, YARA, pfsense
+- **Languages**: Python (Advanced), C++ (Advanced), JavaScript, Java, php
 - **AI/ML**: TensorFlow, PyTorch, Scikit-learn
-- **Robotics**: ROS2, Computer Vision, Sensor Fusion
-- **Cloud**: AWS, Docker, Kubernetes
+- **Robotics**: ROS2, Computer Vision, Sensor Fusion, Gazebo
+- **Cloud**: Docker, Kubernetes
 
 ### 🚀 Featured Projects
 - 🔐 **[SecuPy Toolkit](https://github.com/khalilzrk/SecuPy)** - Automated security scanning suite
 - 🤖 **[AI-SIEM](https://github.com/khalilzrk/AI-SIEM)** - ML-powered threat detection
 - 🎯 **[PhishNet](https://github.com/khalilzrk/PhishNet)** - AI phishing detector
 
+
 ### 📊 Current Focus
 - Building AI-powered cybersecurity tools
-- ROS2 security frameworks
+- ROS2 mobile robots development
 - Automated threat response systems
 
 ### 💼 Available for Freelance Work
